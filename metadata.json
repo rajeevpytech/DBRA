@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Bhimrao Ambedkar Educational Society Portal",
+  "description": "Official community service and donation portal for Dr. Bhimrao Ambedkar Educational Society, Ambedkar Nagar, UP. Direct offline verification, receipt tracking, and welfare initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
